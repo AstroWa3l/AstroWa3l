@@ -1,5 +1,3 @@
-# Welcome to AstroWa3l's GitHub Profile! 👋
-
 ## About Me
 
 Hello! I'm AstroWa3l. I love exploring how coding intersects with my passions, whether that's web development, data analysis, or any exciting project that pushes boundaries in technology and beyond. I enjoy continuously learning, sharing knowledge, and embarking on new adventures in coding.
